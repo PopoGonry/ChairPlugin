@@ -1,0 +1,7 @@
+name: chairPlugin
+version: '1.0-SNAPSHOT'
+main: com.popogonry.chairPlugin.ChairPlugin
+api-version: '1.21'
+commands:
+  앉기:
+    description: 현재 위치에 앉습니다.
